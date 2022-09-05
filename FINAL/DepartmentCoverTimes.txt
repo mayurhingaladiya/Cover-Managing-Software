@@ -1,0 +1,22 @@
+-----------------------------------------------------
+
+Art Department has put in: 0.0minutes
+Biology Department has put in: 0.0minutes
+Business Department has put in: 0.0minutes
+Chemistry Department has put in: 0.0minutes
+Computer Science Department has put in: 120.0minutes
+Drama Department has put in: 0.0minutes
+Economics Department has put in: 0.0minutes
+English Department has put in: 0.0minutes
+Geography Department has put in: 0.0minutes
+HSC Department has put in: 0.0minutes
+History Department has put in: 0.0minutes
+Languages Department has put in: 0.0minutes
+Mathematics Department has put in: 120.0minutes
+Music Department has put in: 0.0minutes
+PE Department has put in: 0.0minutes
+Physics Department has put in: 0.0minutes
+Politics Department has put in: 0.0minutes
+Psychology Department has put in: 0.0minutes
+RE Department has put in: 0.0minutes
+Sociology Department has put in: 0.0minutes
